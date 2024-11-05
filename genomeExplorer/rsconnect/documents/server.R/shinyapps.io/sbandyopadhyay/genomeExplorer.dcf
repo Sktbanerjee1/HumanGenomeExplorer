@@ -1,0 +1,12 @@
+name: genomeExplorer
+title: genomeExplorer
+username: sbandyopadhyay
+account: sbandyopadhyay
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13228762
+bundleId: 9315377
+url: https://sbandyopadhyay.shinyapps.io/genomeExplorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
